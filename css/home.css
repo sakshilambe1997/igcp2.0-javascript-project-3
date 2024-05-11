@@ -80,5 +80,6 @@ body{
 /* Body Section */
 
 .slide-img{
-    
+    width: 100vw;
+    height: 400px;
 }

@@ -120,7 +120,7 @@ body{
     }
     
     .menu-container{
-        background-color: aquamarine;
+       g /* background-color: aquamarine; */
         width:140px;
        
     }
@@ -132,7 +132,7 @@ body{
     }
     
     .shopping-icon-container{
-        background-color: rgb(255, 214, 127);
+        /* background-color: rgb(255, 214, 127); */
         display: flex;
     }
     

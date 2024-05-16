@@ -80,8 +80,31 @@ body{
 /* Body Section */
 
 .slide-img{
-    width: 100vw;
+    width: 98.70vw;
     height: 400px;
+}
+
+/* categories section */
+
+.categories-main-container{
+    background-color: bisque;
+    height: 400px;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+
+}
+
+.categorie-div{
+    background-color: #66a6ff;
+    height: 350px;
+    width: 400px;
+
+}
+
+.categorie-img{
+    height: 300px;
+   
 }
 
 
